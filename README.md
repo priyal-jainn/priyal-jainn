@@ -58,22 +58,4 @@ priyal = {
 [![Top Languages - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=priyal-jainn&layout=compact&theme=tokyonight&hide_border=true&langs_count=6#gh-dark-mode-only)](https://github.com/priyal-jainn#gh-dark-mode-only)
 [![Top Languages - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=priyal-jainn&layout=compact&theme=default&hide_border=true&langs_count=6#gh-light-mode-only)](https://github.com/priyal-jainn#gh-light-mode-only)
 
----
 
-### Featured Projects
-
-[![QuantCopilot - Dark](https://github-readme-stats.vercel.app/api/pin/?username=priyal-jainn&repo=QuantCopilot&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/priyal-jainn/QuantCopilot#gh-dark-mode-only)
-[![QuantCopilot - Light](https://github-readme-stats.vercel.app/api/pin/?username=priyal-jainn&repo=QuantCopilot&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/priyal-jainn/QuantCopilot#gh-light-mode-only)
-[![Unichunk - Dark](https://github-readme-stats.vercel.app/api/pin/?username=priyal-jainn&repo=Unichunk-Smart-PDF-QA-Tool&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/priyal-jainn/Unichunk-Smart-PDF-QA-Tool#gh-dark-mode-only)
-[![Unichunk - Light](https://github-readme-stats.vercel.app/api/pin/?username=priyal-jainn&repo=Unichunk-Smart-PDF-QA-Tool&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/priyal-jainn/Unichunk-Smart-PDF-QA-Tool#gh-light-mode-only)
-
-[![TradeRewind - Dark](https://github-readme-stats.vercel.app/api/pin/?username=priyal-jainn&repo=TradeRewind&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/priyal-jainn/TradeRewind#gh-dark-mode-only)
-[![TradeRewind - Light](https://github-readme-stats.vercel.app/api/pin/?username=priyal-jainn&repo=TradeRewind&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/priyal-jainn/TradeRewind#gh-light-mode-only)
-[![Depression Scaler - Dark](https://github-readme-stats.vercel.app/api/pin/?username=priyal-jainn&repo=Depression-Scaler&theme=tokyonight&hide_border=true#gh-dark-mode-only)](https://github.com/priyal-jainn/Depression-Scaler#gh-dark-mode-only)
-[![Depression Scaler - Light](https://github-readme-stats.vercel.app/api/pin/?username=priyal-jainn&repo=Depression-Scaler&theme=default&hide_border=true#gh-light-mode-only)](https://github.com/priyal-jainn/Depression-Scaler#gh-light-mode-only)
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyal-jainn&color=blueviolet&style=flat-square&label=visitors" alt="visitor count"/>
-</div>
