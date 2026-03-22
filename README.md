@@ -1,7 +1,7 @@
-<!-- LIGHT MODE BANNER -->
+<!-- HEADER BANNER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2d1b4e,1e1b2e,3b2067&height=200&section=header&text=Priyal%20Jain&fontSize=52&fontColor=e8d5ff&fontAlignY=38&desc=Data%20Scientist%20%7C%20MS%20Data%20Science%20at%20UW&descSize=16&descAlignY=62&descFontColor=cba6f7&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd6e7,f9c6e0,e8d5ff,ffecd2&height=200&section=header&text=Priyal%20Jain&fontSize=52&fontColor=7c3d6e&fontAlignY=38&desc=Data%20Scientist%20%7C%20MS%20Data%20Science%20at%20UW&descSize=16&descAlignY=62&descFontColor=a06090&animation=fadeIn" alt="header"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&size=42&duration=1&pause=99999&color=E8D5FF&background=1E1B2E&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=110&lines=Priyal+Jain;Data+Scientist+%7C+MS+Data+Science+at+UW"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=42&duration=1&pause=99999&color=7C3D6E&background=FFF0F8&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=110&lines=Priyal+Jain;Data+Scientist+%7C+MS+Data+Science+at+UW" alt="Priyal Jain — Data Scientist | MS Data Science at UW" width="100%"/>
 </picture>
 
 ---
@@ -113,8 +113,8 @@ priyal = {
 
 </div>
 
-<!-- FOOTER WAVE -->
+<!-- FOOTER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=2d1b4e,1e1b2e,3b2067&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffd6e7,f9c6e0,e8d5ff,ffecd2&height=100&section=footer" alt="footer"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Georgia&size=1&duration=1&pause=99999&color=1E1B2E&background=1E1B2E&center=true&vCenter=true&repeat=false&width=900&height=40&lines=+"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=1&duration=1&pause=99999&color=FFF0F8&background=FFF0F8&center=true&vCenter=true&repeat=false&width=900&height=40&lines=+" alt="" width="100%"/>
 </picture>
